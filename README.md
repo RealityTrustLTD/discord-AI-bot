@@ -31,22 +31,39 @@ The bot will respond to the following commands:
 IMPORTANT: A ! IS REQUIRED BEFORE EVERY COMMAND
 
 addme: Adds you to the server and gives you 25 currency
+
 referral: !referral [CODE] = Redeem Your Referral Code
+
 report: !report [user] [reason] = Report a user or post to the Mod Team
+
 mycode: !mycode = your referral code
+
 currency: Your Currency balance. Currency is required to interact with AI
+
 pay: !pay [username includes spaces] [amount] = Send currency to another user
+
 earn: Use this command once every 5 hours for 5 FREE CURRENCY
+
 characters: Your Character balance. Characters can be exchanged for Currency
+
 exchange: !exchange [amout] = Trade Characters for Currency. Exchange rate 500:1
+
 conrad: !conrad [converasation] = ASK GPT-3 A Question (PHD level specialties in math, multiple branches of science, history, politics, psychology, metaphysics, and more.(COST: 5 Currency)
+
 largeimage: !largeimage [prompt] = AI Generates a 1024x1024 image. (COST: 2 Currency)
+
 dalle: !dalle [prompt] = AI Generates 512x512 image. (COST: 1 Currency)
+
 story: !story [story prompt] = StoryFlow Multiplayer Story MAX 500 CHARACTERS (Cost 50 Currency)
+
 action: !action [desired action] = Add your actions to a StoryFlow Story, you can add multiple actions. (Cost 1 Currency).
+
 continue: After the group has finished adding actions, Continue your StoryFlow Story. (Cost 3 Currency)
+
 basicsub: !basicsub = Buy A Basic Subscription. Get an extra 33 Currency daily. More server channels. Generate referral codes. (COST 10,000 Currency)
+
 premiumsub: !premiumsub = Buy A Premium Subscription. Get an extra 99 Currency daily. Directly support our script development, and pay for server time with API access. (COST 1,000,000 Currency)
+
 !getcode: !getcode = Generate your referral code
 
 The Bot also features several admin commands used for adding/removing users, granting tokens, and managing the server. 
