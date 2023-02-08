@@ -21,7 +21,7 @@ INSTALLATION:
 
 1. Set up your instance / operating environment.
 2. Edit the scripts with your own API keys and Discord info.
-3. Set up your SQLITE Databases.
+3. Set up your SQLITE Databases. ( I included a copy of my actions.db, but my users DB has critical info so you may not have it)
 4. Connect your bot. 
 
 
@@ -53,5 +53,7 @@ The Bot also features several admin commands used for adding/removing users, gra
 
 
 Its a great little bot, but i know that making it open source will make it so much better if the right person finds it. Have fun!!
+If you want to see it working let me know and I'll temporarily invite you. . . probably. 
+
 
 
